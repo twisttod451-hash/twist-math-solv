@@ -1,0 +1,16 @@
+{
+  "name": "twist-math-solver",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Twist Math Solver web app packaged for Android",
+  "scripts": {
+    "build": "echo Web app ready for Capacitor"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.1",
+    "@capacitor/core": "^6.2.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.1"
+  }
+}

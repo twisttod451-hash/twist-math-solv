@@ -1,0 +1,6 @@
+{
+  "appId": "com.twist.mathsolver",
+  "appName": "Twist Math Solver",
+  "webDir": ".",
+  "bundledWebRuntime": false
+}

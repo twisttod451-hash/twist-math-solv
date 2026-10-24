@@ -1,0 +1,11 @@
+{
+  "name": "Twist Math Solver",
+  "short_name": "Twist Math",
+  "description": "Scientific calculator and mathematics problem solver.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "orientation": "portrait",
+  "icons": []
+}
